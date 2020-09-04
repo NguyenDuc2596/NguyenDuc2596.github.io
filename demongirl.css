@@ -1,0 +1,437 @@
+body {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background: url(https://img4.thuthuatphanmem.vn/uploads/2019/11/27/hinh-nen-3d-mau-do_024003368.jpg);
+ background-size: cover;
+}
+
+
+#top {
+
+height: 50px;
+background-color:#cc0000;
+
+
+
+}
+
+#top ul li img{
+
+   width: 130px;
+   height:50px ;
+}
+
+#top ul {
+
+   margin:  0px;
+   padding: 0px;
+}
+
+#top ul li {
+   list-style:  none;
+   float: left;
+}
+
+#top ul li a {
+   text-decoration: none;
+   display: block;
+   height: 50px;
+   line-height: 50px;
+   color:  white;
+   font-family: Arial, Helvetica, sans-serif;
+   text-transform: uppercase;
+   font-size: 15px;
+   padding:  0px 40px 0px 40px;
+  
+   
+}
+   
+
+
+
+#top ul li a.active {
+
+   background-color: #ff0000;
+
+}
+#top ul li a.div{
+    color: red;
+    background-color:whitesmoke ;
+    font-size:  30px;
+}
+
+
+
+
+
+#girl1 {
+width: 1100px;
+height: 330px;
+
+margin: 0px auto 50px auto;
+
+
+}
+
+#girl1 #trai1 {
+
+   width: 550px;
+   height: 330px;
+   float: left;
+   
+
+}
+
+#girl1 #phai1 {
+   width: 530px;
+   height: 330px;
+   float: right;
+   
+   font-style: inherit;
+   font-size: 20px;
+
+  
+ }
+
+
+   
+
+
+
+
+
+
+
+#p1 {
+   text-align: center ;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+
+
+} 
+
+
+#girl2 {
+   width: 1100px;
+   height: 330px;
+  
+   margin: 0px auto 50px auto;
+   
+   
+   }
+#girl2 #trai2 {
+
+   width: 550px;
+   height: 330px;
+   float: left;
+
+
+}
+
+#girl2 #phai2 {
+   width: 530px;
+   height: 330px;
+   float: right;
+   
+   font-style: inherit;
+   font-size: 20px;
+   
+
+
+
+
+}
+
+
+#p2 {
+   text-align: center ;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+
+
+} 
+
+
+#girl3 {
+   width: 1100px;
+   height: 330px;
+   
+   margin: 0px auto 50px auto;
+   
+   
+   }
+   
+   #girl3 #trai3 {
+   
+      width: 550px;
+      height: 330px;
+      float: left;
+      
+   
+   }
+   
+   #girl3 #phai3 {
+      width: 530px;
+      height: 330px;
+      float: right;
+      
+      font-style: inherit;
+   font-size: 20px;
+   
+   
+   
+   
+   }
+   
+   
+   #p3 {
+      text-align: center ;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      
+   
+   
+   } 
+   
+
+   #girl4 {
+      width: 1100px;
+      height: 330px;
+     
+      margin: 0px auto 50px auto;
+      
+      
+      }
+      
+      #girl4 #trai4 {
+      
+         width: 550px;
+         height: 330px;
+         float: left;
+         
+      
+      }
+      
+      #girl4 #phai4 {
+         width: 530px;
+         height: 330px;
+         float: right;
+        
+         font-style: inherit;
+      font-size: 20px;
+      
+      
+      
+      
+      }
+      
+      
+      #p4 {
+         text-align: center ;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         
+      
+      
+      } 
+
+      #girl5 {
+         width: 1100px;
+         height: 330px;
+         
+         margin: 0px auto 50px auto;
+         
+         
+         }
+         
+         #girl5 #trai5 {
+         
+            width: 550px;
+            height: 330px;
+            float: left;
+            
+         
+         }
+         
+         #girl5 #phai5 {
+            width: 530px;
+            height: 330px;
+            float: right;
+            
+            font-style: inherit;
+         font-size: 20px;
+         
+         
+         
+         
+         }
+         
+         
+         #p5 {
+            text-align: center ;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+         
+         
+         } 
+
+         #girl6 {
+            width: 1100px;
+            height: 330px;
+            
+            margin: 0px auto 50px auto;
+            
+            
+            }
+            
+            #girl6 #trai6 {
+            
+               width: 550px;
+               height: 330px;
+               float: left;
+               
+            
+            }
+            
+            #girl6 #phai6 {
+               width: 530px;
+               height: 330px;
+               float: right;
+              
+               font-style: inherit;
+            font-size: 20px;
+            
+            
+            
+            
+            }
+            
+            
+            #p6 {
+               text-align: center ;
+               font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+               
+            
+            
+            } 
+         
+            #girl7 {
+               width: 1100px;
+               height: 330px;
+               
+               margin: 0px auto 50px auto;
+               
+               
+               }
+               
+               #girl7 #trai7 {
+               
+                  width: 550px;
+                  height: 330px;
+                  float: left;
+                  
+               
+               }
+               
+               #girl7 #phai7 {
+                  width: 530px;
+                  height: 330px;
+                  float: right;
+                 
+                  font-style: inherit;
+               font-size: 20px;
+               
+               
+               
+               
+               }
+               
+               
+               #p7 {
+                  text-align: center ;
+                  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                  
+               
+               
+               } 
+      
+
+               #girl8 {
+                  width: 1100px;
+                  height: 330px;
+                  
+                  margin: 0px auto 50px auto;
+                  
+                  
+                  }
+                  
+                  #girl8 #trai8 {
+                  
+                     width: 550px;
+                     height: 330px;
+                     float: left;
+                     
+                  
+                  }
+                  
+                  #girl8 #phai8 {
+                     width: 530px;
+                     height: 330px;
+                     float: right;
+                     
+                     font-style: inherit;
+                  font-size: 20px;
+                  
+                  
+                  
+                  
+                  }
+                  
+                  
+                  #p8 {
+                     text-align: center ;
+                     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                     
+                  
+                  
+                  } 
+
+                  #girl9 {
+                     width: 1100px;
+                     height: 330px;
+                     
+                     margin: 0px auto 50px auto;
+                     
+                     
+                     }
+                     
+                     #girl9 #trai9 {
+                     
+                        width: 550px;
+                        height: 330px;
+                        float: left;
+                        
+                     
+                     }
+                     
+                     #girl9 #phai9 {
+                        width: 530px;
+                        height: 330px;
+                        float: right;
+                        
+                        font-style: inherit;
+                     font-size: 20px;
+                     
+                     
+                     
+                     
+                     }
+                     
+                     
+                     #p9 {
+                        text-align: center ;
+                        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                        
+                     
+                     
+                     } 
+            
+         

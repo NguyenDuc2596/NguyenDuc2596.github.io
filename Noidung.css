@@ -1,0 +1,189 @@
+body {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background: url(https://img4.thuthuatphanmem.vn/uploads/2019/11/27/hinh-nen-3d-mau-do_024003368.jpg);
+ background-size: cover;
+ background-position: center;
+}
+
+
+#top {
+
+height: 50px;
+background-color:#cc0000;
+
+
+
+}
+
+#top ul li img{
+
+   width: 130px;
+   height:50px ;
+}
+
+#top ul {
+
+   margin:  0px;
+   padding: 0px;
+}
+
+#top ul li {
+   list-style:  none;
+   float: left;
+}
+
+#top ul li a {
+   text-decoration: none;
+   display: block;
+   height: 50px;
+   line-height: 50px;
+   color:  white;
+   font-family: Arial, Helvetica, sans-serif;
+   text-transform: uppercase;
+   font-size: 15px;
+   padding:  0px 40px 0px 40px;
+  
+   
+}
+   
+
+
+
+#top ul li a.active {
+
+   background-color: #ff0000;
+
+}
+#top ul li a.div{
+    color: red;
+    background-color:whitesmoke ;
+    font-size:  30px;
+}
+
+
+#dg {
+   text-align: center ;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   margin: 30px 300px 0px 100px;
+}
+
+
+#pd {
+   color: black;
+    margin: 0px auto 50px auto;
+   font-size: 20px;
+   font-weight: 600;
+    
+}
+#pd img {
+   position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 200px;
+
+
+}
+
+#aaa {
+   
+   font-style: initial;
+   font-size: 20px;
+}
+
+.bbb {
+
+   color: red;
+}
+
+
+
+
+#a1 {
+  
+    text-align: justify;
+    margin-left: 200px;
+}
+
+
+
+.row {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 0 4px;
+ }
+ 
+ /* Create four equal columns that sits next to each other */
+ .column {
+   flex: 25%;
+   max-width: 25%;
+   padding: 0 4px;
+ }
+ 
+ .column img {
+   margin-top: 8px;
+   vertical-align: middle;
+   width: 100%;
+ }
+ 
+ /* Responsive layout - makes a two column-layout instead of four columns */
+ @media screen and (max-width: 800px) {
+   .column {
+     flex: 50%;
+     max-width: 50%;
+   }
+ }
+ 
+ /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+ @media screen and (max-width: 600px) {
+   .column {
+     flex: 100%;
+     max-width: 100%;
+   }
+ }
+#body {
+   margin: 0 auto;
+   max-width: 800px;
+   padding: 0 20px;
+}
+
+
+ .ava {
+
+   border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+ }
+
+ .ava::after {
+   content: "";
+   clear: both;
+   display: table;
+ }
+ 
+ .ava img {
+   float: left;
+   max-width: 60px;
+   width: 100%;
+   margin-right: 20px;
+   border-radius: 50%;
+ }
+ 
+ .ava img.right {
+   float: right;
+   margin-left: 20px;
+   margin-right:0;
+ }
+ 
+ .darker {
+   border-color: #ccc;
+   background-color: #ddd;
+ }
+
+#txt-name {
+
+   width: 600px;
+   height: 100px;
+}

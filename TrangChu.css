@@ -1,0 +1,234 @@
+body {
+
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url(https://i.pinimg.com/originals/70/a2/53/70a253e643ed11e6f0522ad7250fb64b.jpg);
+  background-size: cover;
+}
+
+
+#top {
+
+height: 50px;
+background-color:#cc0000;
+
+
+
+}
+
+#top ul li img{
+
+    width: 130px;
+    height:50px ;
+}
+
+#top ul {
+
+    margin:  0px;
+    padding: 0px;
+}
+
+#top ul li {
+    list-style:  none;
+    float: left;
+}
+
+#top ul li a {
+    text-decoration: none;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    color:  white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding:  0px 40px 0px 40px;
+   
+    
+}
+    
+
+
+
+#top ul li a.active {
+
+    background-color: #ff0000;
+
+ }
+ #top ul li a.div{
+     color: red;
+     background-color:whitesmoke ;
+     font-size:  30px;
+ }
+#a1 { 
+   
+    color: wheat;
+
+   
+    width: 500px;
+    height:80px ;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 50px 80px 80px 800px ;
+    font-weight: bold;
+    
+}
+
+
+
+#main  {
+
+    padding: 10px 10px 500px 800px ;
+    margin: 0px auto;
+
+    
+
+}
+
+#mlem-melm {
+
+  color: red;
+  padding: 10px 300px 30px 500px;
+
+}
+
+
+
+
+ #demon-girls {
+
+height:600px ;
+width:auto ;
+
+margin: 0px 150px 0px 150px   ;
+
+ }
+
+
+
+
+
+ * {
+    box-sizing: border-box;
+  }
+  
+  /* Position the image container (needed to position the left and right arrows) */
+  .container {
+    position: relative;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Add a pointer when hovering over the thumbnail images */
+  .cursor {
+    cursor: pointer;
+  }
+  
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* Container for image text */
+  .caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Six columns side by side */
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  /* Add a transparency effect for thumnbail images */
+  .demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+
+
+  .ava {
+    background: url(https://steamcdn-a.akamaihd.net/steam/apps/1289310/capsule_616x353.jpg?t=1590209053);
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+
+    border: 2px solid #dedede;
+   background-color: #f1f1f1;
+   border-radius: 5px;
+   padding: 10px;
+   margin: 10px 0;
+  
+  }
+ 
+  .ava::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .ava img {
+    float: left;
+    max-width: 60px;
+    width: 100%;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .ava img.right {
+    float: right;
+    margin-left: 20px;
+    margin-right:0;
+  }
+
+
+  
+  
